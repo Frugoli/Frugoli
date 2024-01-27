@@ -22,7 +22,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,mysql&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,mongodb,mysql&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
