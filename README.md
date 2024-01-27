@@ -30,7 +30,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,git,postman&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,insomnia&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
