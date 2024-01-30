@@ -34,7 +34,6 @@
 </p>
 
 </td></tr></table>
-<br/><br/>
 
 # 📊 GitHub Stats
 
