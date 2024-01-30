@@ -41,7 +41,6 @@
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frugoli&theme=github_dark" />
 </p>
-<br/><br/>
 
 # 📫 Connect With Me
 
