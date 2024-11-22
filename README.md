@@ -14,7 +14,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,prisma,mongodb,mysql&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,vitest,express,nestjs,prisma,mongodb,mysql&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -22,7 +22,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,vscode,github,git,postman,docker&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,npm,pnpm,github,git,postman,docker&theme=dark&perline=4" />
 </p>
 
 </td></tr></table>
