@@ -14,7 +14,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,prisma,mongodb,mysql&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,prisma,mongodb,mysql,fastify&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="33%">
