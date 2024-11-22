@@ -4,7 +4,7 @@
 
 # 📝About Me
 
-<h3 align="center">I have been a web developer for 1 year, specializing in the Javascript ecosystem, with expertise in NodeJS.</h3>
+<h3 align="center">I have been a web developer for 2 year, specializing in the Javascript ecosystem, with expertise in NodeJS.</h3>
 <br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
