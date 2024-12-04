@@ -22,7 +22,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,npm,pnpm,github,git,postman,docker&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=ubuntu,vscode,npm,pnpm,github,git,postman,docker&theme=dark&perline=4" />
 </p>
 
 </td></tr></table>
