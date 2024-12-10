@@ -14,7 +14,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
